@@ -1,7 +1,7 @@
 ### Welcome 👋👋👋
 
-- 🔭 Atualmente estou atuando com Kotlin
-- 🌱 Estou estudando Flutter
+- 🔭 Atualmente estou atuando com Kotlin, Java, JavaScript
+- 🌱 Estou me desenvolvendo em progração usando Flutter
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
